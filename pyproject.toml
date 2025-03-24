@@ -1,0 +1,16 @@
+[project]
+name = "flour-screening"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "cleanlab>=2.7.1",
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.9.4",
+    "numba>=0.57",
+    "seaborn>=0.13.2",
+    "shap>=0.42",
+    "statsmodels>=0.14.4",
+    "xgboost>=2.1.4",
+]
